@@ -15,6 +15,8 @@
     self = [super initWithFrame:frame];
     if (self) {
         // Initialization code
+        
+        UIButton *button = [[UIButton alloc]init];
     }
     return self;
 }
